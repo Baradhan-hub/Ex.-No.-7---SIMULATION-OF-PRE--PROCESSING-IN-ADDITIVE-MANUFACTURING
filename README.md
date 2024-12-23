@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Baradhan.L
+### Register Number:24005473
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
